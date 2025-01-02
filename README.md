@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there, I'm Mahshid 👋
+I'm a front-end developer who loves building responsive and high-performance React applications. I've had the chance to develop 10+ user-focused React apps and troubleshoot over 50 websites, solving problems and making things work smoothly. I’m always learning and staying up-to-date with the latest trends in front-end development. 
+I’m passionate about creating great user experiences and can’t wait to bring my skills and enthusiasm to a collaborative team!
 <!--
 **MahshidNiknafs/MahshidNiknafs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
