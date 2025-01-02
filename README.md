@@ -37,7 +37,7 @@ Hi, I'm Mahshid Niknafs!
 <p align="center">
 	<a href="mailto:mahshidniknafs.asd@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/mahshid-niknafs//"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://t.me/MahshidNiknafs"><img src="https://img.shields.io/badge/20Telegram-%2326A5E4.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
+	<a href="https://t.me/MahshidNiknafs"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
 ## 🛠️ My Favorite Tools
@@ -50,7 +50,7 @@ Hi, I'm Mahshid Niknafs!
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/MahshidNiknafs"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+    <a href="https://github.com/MahshidNiknafs"><img alt="React.js" src="https://img.shields.io/badge/react-%2361DAFB.svg?logo=react&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
