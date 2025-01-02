@@ -17,7 +17,7 @@ Hi, I'm Mahshid Niknafs!
 <br/>
 <p align="center">
 	<a href="https://github.com/MahshidNiknafs">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+ Developer;React+ Specialist;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+ Developer;React+Specialist;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
