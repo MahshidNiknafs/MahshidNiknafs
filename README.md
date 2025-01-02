@@ -1,5 +1,4 @@
 
-
 <h1 align="center">
 Hi, I'm Mahshid Niknafs!
 	<a href="[https://github.com/MahshidNiknafs](https://github.com/MahshidNiknafs)" target="_self">
@@ -36,9 +35,9 @@ Hi, I'm Mahshid Niknafs!
 
 ## 🤝 Connect with me
 <p align="center">
-	<a href="mailto:mahshidniknafs.asd@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:mahshidniknafs.asd@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/mahshid-niknafs//"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://t.me/MahshidNiknafs"><img src="https://img.shields.io/badge/telegram-%26A5E4.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
+	<a href="https://t.me/MahshidNiknafs"><img src="https://img.shields.io/badge/telegram-%#26A5E4.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
 ## 🛠️ My Favorite Tools
