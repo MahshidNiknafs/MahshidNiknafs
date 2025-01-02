@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Hi, I'm Mahshid Niknafs!
+Hi, I'm Mahshid!
 	<a href="[https://github.com/MahshidNiknafs](https://github.com/MahshidNiknafs)" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
