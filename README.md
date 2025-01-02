@@ -9,7 +9,7 @@ Hi, I'm Mahshid!
 	<a href="https://github.com/MahshidNiknafs">
 		<img src="https://komarev.com/ghpvc/?username=MahshidNiknafs&label=Profile%20views&color=0e75b6&style=flat" alt="Mahshid Niknafs" />
 	</a>
-	<a href="https://github.com/MahshidNiknafsn">
+	<a href="https://github.com/MahshidNiknafs">
 		<img src="https://img.shields.io/github/followers/MahshidNiknafs?label=Followers" alt="Mahshid" />
 	</a>
 </p>
@@ -29,7 +29,7 @@ Hi, I'm Mahshid!
 🌱 Continuously learning about advanced TypeScript patterns and optimizing UI/UX design
 🌟 Main technologies: React.js, TypeScript, Material-UI, JavaScript (ES6+), CSS (including Tailwind and Sass), and RESTful APIs
 🚩 Interested in crafting innovative, user-focused solutions in dynamic and collaborative environments
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>a new</b> <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
