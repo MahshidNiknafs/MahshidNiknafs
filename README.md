@@ -24,12 +24,12 @@ Hi, I'm Mahshid Niknafs!
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+💻 Proficient React-Based Front-End Developer with expertise in TypeScript and Material-UI (MUI)
+📝 Passionate about building intuitive, scalable, and accessible user interfaces
+🔭 Currently working on responsive React applications with modern front-end technologies
+🌱 Continuously learning about advanced TypeScript patterns and optimizing UI/UX design
+🌟 Main technologies: React.js, TypeScript, Material-UI, JavaScript (ES6+), CSS (including Tailwind and Sass), and RESTful APIs
+🚩 Interested in crafting innovative, user-focused solutions in dynamic and collaborative environments
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
@@ -38,7 +38,7 @@ Hi, I'm Mahshid Niknafs!
 <p align="center">
 	<a href="mailto:mahshidniknafs.asd@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/mahshid-niknafs//"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://t.me/MahshidNiknafs"><img src="https://img.shields.io/badge/telegram-%230A66C5.svg?style=plastic&logo=telegram&logoColor=blue" alt="Telegram"/></a>
+	<a href="https://t.me/MahshidNiknafs"><img src="https://img.shields.io/badge/telegram-%26A5E4.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
 ## 🛠️ My Favorite Tools
@@ -51,7 +51,7 @@ Hi, I'm Mahshid Niknafs!
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+    <a href="https://github.com/MahshidNiknafs"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
