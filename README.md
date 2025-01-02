@@ -63,10 +63,10 @@ Hi, I'm Mahshid Niknafs!
 ### 📝 Intermediate at
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://github.com/MahshidNiknafs"><img alt="Redux" src="https://img.shields.io/badge/redux-%23764ABC.svg?logo=redux&logoColor=white"></a>
+    <a href="https://github.com/MahshidNiknafs"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%233178C6.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/MahshidNiknafs"><img alt="Next.js" src="https://img.shields.io/badge/nextdotjs-%23000000.svg?logo=nextdotjs&logoColor=white"></a>
+    <a href="https://github.com/MahshidNiknafs"><img alt="Tailwind Css" src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?logo=tailwindcss&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
