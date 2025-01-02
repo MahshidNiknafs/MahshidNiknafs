@@ -51,11 +51,14 @@ Hi, I'm Mahshid!
 
 <p>
     <a href="https://github.com/MahshidNiknafs"><img alt="React.js" src="https://img.shields.io/badge/react-%2361DAFB.svg?logo=react&logoColor=white"></a>
-    <a href="https://github.com/MahshidNiknafs"><img alt="React Hook Form" src="https://img.shields.io/badge/reacthookform-%23%23EC5990.svg?logo=reacthookform&logoColor=white"></a>
-    <a href="https://github.com/MahshidNiknafs"><img alt="Css" src="https://img.shields.io/badge/css-%23663399.svg?logo=css&logoColor=white"></a>
+    <a href="https://github.com/MahshidNiknafs"><img alt="React Query" src="https://img.shields.io/badge/reactquery-%23FF4154.svg?logo=reactquery&logoColor=white"></a>
+<a href="https://github.com/MahshidNiknafs"><img alt="React Router" src="https://img.shields.io/badge/reactrouter-%23CA4245.svg?logo=reactrouter&logoColor=white"></a>
+    <a href="https://github.com/MahshidNiknafs"><img alt="React Hook"			src="https://img.shields.io/badge/reacthookform-%23%23EC5990.svg?logo=reacthookform&logoColor=white"></a>
     <a href="https://github.com/MahshidNiknafs"><img alt="ES6" src="https://img.shields.io/badge/ES6-%23FFCF00.svg?logo=ES6&logoColor=white"></a>
-    <a href="https://github.com/MahshidNiknafs"><img alt="Sass" src="https://img.shields.io/badge/sass-%23CC6699.svg?logo=sass&logoColor=white"></a>
+<a href="https://github.com/MahshidNiknafs"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%233178C6.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/MahshidNiknafs"><img alt="RESTful API" src="https://img.shields.io/badge/RESTful%20API-%2318BFFF.svg?logo=RESTful%20API&logoColor=white"></a>
+    <a href="https://github.com/MahshidNiknafs"><img alt="MUI" src="https://img.shields.io/badge/mui-%23007FFF.svg?logo=mui&logoColor=white"></a>
+<a href="https://github.com/MahshidNiknafs"><img alt="Tailwind Css" src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?logo=tailwindcss&logoColor=white"></a>
     <a href="https://github.com/MahshidNiknafs"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
 </p>
 
@@ -64,16 +67,14 @@ Hi, I'm Mahshid!
 
 <p>
     <a href="https://github.com/MahshidNiknafs"><img alt="Redux" src="https://img.shields.io/badge/redux-%23764ABC.svg?logo=redux&logoColor=white"></a>
-    <a href="https://github.com/MahshidNiknafs"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%233178C6.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/MahshidNiknafs"><img alt="Next.js" src="https://img.shields.io/badge/nextdotjs-%23000000.svg?logo=nextdotjs&logoColor=white"></a>
-    <a href="https://github.com/MahshidNiknafs"><img alt="Tailwind Css" src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?logo=tailwindcss&logoColor=white"></a>
+    
 </p>
 
 ### 💻 Software and Tools
 
 <p>
     <a href="https://github.com/MahshidNiknafs"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-logo=google%20sheets&logoColor=white"></a>
     <a href="https://github.com/MahshidNiknafs"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="https://github.com/MahshidNiknafs"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
