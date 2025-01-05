@@ -16,20 +16,20 @@ Hi, I'm Mahshid!
 <br/>
 <p align="center">
 	<a href="https://github.com/MahshidNiknafs">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer;React+Specialist;Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer;React+Specialist;Enthusiastic;Always%20staying%20updated%20with%20the%20latest%20technologies&center=true&width=380&height=45">
 	</a>
 </p>
 
 <hr>
 
 <pre>
-💻 Proficient React-Based Front-End Developer with expertise in TypeScript and Material-UI (MUI)
-📝 Passionate about building intuitive, scalable, and accessible user interfaces
-🔭 Currently working on responsive React applications with modern front-end technologies
-🌱 Continuously learning about advanced TypeScript patterns and optimizing UI/UX design
-🌟 Main technologies: React.js, TypeScript, Material-UI, JavaScript (ES6+), CSS (including Tailwind and Sass), and RESTful APIs
-🚩 Interested in crafting innovative, user-focused solutions in dynamic and collaborative environments
-🤔 I’m currently open for: <b>a new</b> <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+💻 Proficient React-Based Front-End Developer specializing in building responsive, user-centered web applications
+📝 Passionate about building performant  and accessible user interfaces
+🔭 Currently working on dynamic React projects and expanding my knowledge of modern front-end technologies
+🌱 Continuously learning about  optimization methods and advanced patterns in front-end development
+🌟 Main technologies: React.js, TypeScript, JavaScript (ES6+), CSS (including Tailwind and MUI), and RESTful APIs
+🚩 Interested in exploring server-side rendering (SSR) and static site generation (SSG) techniques with Next.js to enhance application performance and SEO
+🤔 I’m currently open for: <b>a new</b> <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1Nm-nGaJ5xpKDxYXBkPwya_APMAZ-B_fo/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
